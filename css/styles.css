@@ -1,0 +1,21 @@
+body {
+  background-color: #AEF6F6;
+}
+
+hr {
+  background-color: White;
+  border-style: dotted none none;
+  border-color: Grey;
+  border-width: 5px;
+  width: 70%;
+}
+h1{
+  text-align: center;
+  color: #21094e;
+}
+h2{
+color: #66BFBF;
+}
+head{
+background-color: pink;
+}
